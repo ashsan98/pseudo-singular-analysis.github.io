@@ -25,7 +25,7 @@ function Home() {
 
   const scientificOrganizers = [
     { name: 'Cipriana Anghel', affiliation: 'Universität Göttingen', website: 'https://sites.google.com/view/anghelcipriana/home' },
-    { name: 'Álvaro Sánchez Hernández', affiliation: 'Universität Hannover' },
+    { name: 'Álvaro Sánchez Hernández', affiliation: 'Universität Hannover', website: 'https://ashsan98.github.io/' },
     { name: 'Clément Cren', affiliation: 'Universität Göttingen', website: 'https://clementcren.github.io/' },
     { name: 'Erfan Rezaei', affiliation: 'Universität Göttingen' },
     { name: 'Rareș Stan', affiliation: 'IMAR Bucharest', website: 'https://www.rares-stan.ro/home' },
