@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react'
 
 function Registration() {
-  const deadline = new Date('2026-07-01T23:59:59')
+  const deadline = new Date('2026-08-01T23:59:59')
 
   function calculateTimeLeft() {
     const diff = deadline - new Date()
@@ -93,7 +93,7 @@ function Registration() {
                   Registration deadline
                 </p>
                 <p style={{ fontSize: '20px', fontWeight: 700, marginBottom: '20px' }}>
-                  July 1, 2026
+                  {deadline.toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
                 </p>
 
                 <div style={{ display: 'flex', justifyContent: 'center', gap: '12px' }}>
