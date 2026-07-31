@@ -21,7 +21,7 @@ function Home() {
     { name: 'Frédéric Rochon', affiliation: 'Université du Québec à Montréal', website: 'http://profmath.uqam.ca/~rochon/' },
     { name: 'Julie Rowlett', affiliation: 'Chalmers University', website: 'https://www.math.chalmers.se/~rowlett/' },
     { name: 'Thomas Schick', affiliation: 'Universität Göttingen', website: 'https://topologie.math.uni-goettingen.de/tschick/index.html' },
-    { name: 'Vito Felice Zenobi', affiliation: 'Istituto Nazionale di Alta Matematica', website: 'https://research.uniroma1.it/researcher/baaae8f5e2d25c8f732136be70ceb983a92bfc084144b274678da21f' },
+    { name: 'Vito Felice Zenobi', affiliation: 'Istituto Nazionale di Alta Matematica'},
   ]
 
   const scientificOrganizers = [
