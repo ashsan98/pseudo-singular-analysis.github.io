@@ -17,7 +17,7 @@ function Home() {
     { name: 'Omar Mohsen', affiliation: 'Paris-Cité University', website: 'https://sites.google.com/view/omar-mohsen-webpage/home' },
     { name: 'Sergiu Moroianu', affiliation: 'Universitatea din București & IMAR', website: 'https://www.imar.ro/~sergium/' },
     { name: 'Victor Nistor', affiliation: 'Université de Lorraine', website: 'https://victor-nistor.apps.math.cnrs.fr/' },
-    { name: 'Paolo Piazza', affiliation: 'Università di Roma', website: 'https://research.uniroma1.it/researcher/f92bef1a8f2f1066d80ce36539412fe083a105b7f1a73473875ba2f4' },
+    { name: 'Paolo Piazza', affiliation: 'Università di Roma', website: 'https://sites.google.com/uniroma1.it/paolopiazza' },
     { name: 'Frédéric Rochon', affiliation: 'Université du Québec à Montréal', website: 'http://profmath.uqam.ca/~rochon/' },
     { name: 'Julie Rowlett', affiliation: 'Chalmers University', website: 'https://www.math.chalmers.se/~rowlett/' },
     { name: 'Thomas Schick', affiliation: 'Universität Göttingen', website: 'https://topologie.math.uni-goettingen.de/tschick/index.html' },
