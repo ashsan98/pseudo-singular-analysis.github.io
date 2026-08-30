@@ -51,6 +51,7 @@ function Schedule() {
             style={linkStyle}
             download
           >
+          Booklet (PDF)
           </a>
         </p>
       </section>
