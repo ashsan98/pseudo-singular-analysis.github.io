@@ -128,7 +128,7 @@ function Home() {
                 <>
                   <span> &middot; </span>
                   <span style={{ fontWeight: 500 }}>
-                    <a href={speaker.slides} download rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>
+                    <a href={speaker.slides} target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>
                       Slides
                     </a>
                   </span>
