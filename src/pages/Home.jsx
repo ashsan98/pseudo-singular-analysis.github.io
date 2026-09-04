@@ -124,16 +124,16 @@ function Home() {
                   speaker.name
                 )}
               </span>
-              <span> &middot; </span>
-              <span style={{ fontWeight: 500 }}>
-                {speaker.slides ? (
-                  <a href={speaker.slides} target="_blank" rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>
-                    {"Slides"}
-                  </a>
-                ) : (
-                  "Slides"
+              {speaker.slides && (
+                <>
+                  <span> &middot; </span>
+                  <span style={{ fontWeight: 500 }}>
+                    <a href={speaker.slides} download rel="noopener noreferrer" style={{ color: 'inherit', textDecoration: 'underline' }}>
+                      Slides
+                    </a>
+                  </span>
+                </>
                 )}
-              </span>
             </div>
           ))}
         </div>
