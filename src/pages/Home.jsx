@@ -137,8 +137,33 @@ function Home() {
             </div>
           ))}
         </div>
+
+        {/* Conference Photo */}
+        <div style={{ textAlign: 'center', marginTop: '32px' }}>
+          <img
+            src="/conf_photo.jpg"
+            alt="Participants of the conference in front of the Mathematical Institute in Göttingen"
+            style={{
+              display: 'block',
+              width: '100%',
+              maxWidth: '760px',
+              margin: '0 auto',
+              borderRadius: '8px',
+              boxShadow: '0 4px 12px rgba(0, 0, 0, 0.15)'
+            }}
+          />
+          <p style={{
+            fontSize: '13px',
+            color: '#666',
+            marginTop: '12px',
+            fontStyle: 'italic',
+            lineHeight: 1.5
+          }}>
+            Conference participants in Göttingen.
+          </p>
+        </div>
       </section>
-      
+
       {/* Organizers Section */}
       <section className="section-organizers">
         <h2 style={sectionTitleStyle}>Organizers</h2>
