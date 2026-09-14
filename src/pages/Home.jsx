@@ -2,7 +2,7 @@ function Home() {
   const speakers = [
     { name: 'Clara Aldana', affiliation: 'TBD', website: 'https://claraaldana.com/', slides: "/slides_aldana.pdf" },
     { name: 'Bernd Ammann', affiliation: 'Universität Regensburg', website: 'https://ammann.app.uni-regensburg.de/' },
-    { name: 'Iakovos Androulidakis', affiliation: 'University of Athens', website: 'http://scholar.uoa.gr/iandroul/biocv', slides: "/slides_androulidakis.pdf"  },
+    { name: 'Iakovos Androulidakis', affiliation: 'University of Athens', website: 'http://scholar.uoa.gr/iandroul/biocv' },
     { name: 'Abdou Oussama Benabida', affiliation: 'Université du Québec à Montréal', website: 'https://abdou-oussama-benabida.vercel.app/' },
     { name: 'Karsten Bohlen', affiliation: 'Universität Regensburg', website: 'https://sites.google.com/view/kbohlen/start' },
     { name: 'Alessandro Pietro Contini', affiliation: 'Universität Hannover', website: 'https://www.analysis.uni-hannover.de/institut/personenverzeichnis/personen-detailansicht/institut-fuer-analysis/wissenschaftliche-mitarbeiterinnen-und-mitarbeiter-2/alessandro-pietro-contini' },
@@ -17,7 +17,7 @@ function Home() {
     { name: 'Omar Mohsen', affiliation: 'Paris-Cité University', website: 'https://sites.google.com/view/omar-mohsen-webpage/home' },
     { name: 'Sergiu Moroianu', affiliation: 'Universitatea din București & IMAR', website: 'https://www.imar.ro/~sergium/' },
     { name: 'Victor Nistor', affiliation: 'Université de Lorraine', website: 'https://victor-nistor.apps.math.cnrs.fr/' },
-    { name: 'Paolo Piazza', affiliation: 'Università di Roma', website: 'https://sites.google.com/uniroma1.it/paolopiazza', slides: "/slides_piazza.pdf" },
+    { name: 'Paolo Piazza', affiliation: 'Università di Roma', website: 'https://sites.google.com/uniroma1.it/paolopiazza', },
     { name: 'Frédéric Rochon', affiliation: 'Université du Québec à Montréal', website: 'http://profmath.uqam.ca/~rochon/' },
     { name: 'Julie Rowlett', affiliation: 'Chalmers University', website: 'https://www.math.chalmers.se/~rowlett/' },
     { name: 'Thomas Schick', affiliation: 'Universität Göttingen', website: 'https://topologie.math.uni-goettingen.de/tschick/index.html' },
